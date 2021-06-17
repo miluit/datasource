@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public enum ResCode {
-     /** 这个是dev分支 */
+     /**  快速合并  */
     SUCCESS(20000,"操作成功"),
     ERROR(50000,"操作失败"),
     SYSTEM_ERROR(50001,"系统操作");
