@@ -6,7 +6,8 @@ public class ResResult {
 
     private String message;
 
-    private String e;
+
+    private String dev;
 
 
 }
